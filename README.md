@@ -1,6 +1,6 @@
 # PowerBI-Sales-Dashboard
-Dashboard showing sales and forecast for a superstore.  
-This interactive dashboard incorporates time series analysis and sales forecasting to generate valuable insights.
+Dashboard showing sales and forecasts for a superstore.
+This interactive dashboard incorporates time series analysis and sales forecasting to generate valuable insights. The dashboard has been created using PowerBI and uses a CSV file (SuperStore_Sales_Dataset.csv) as data source.
 
 ![Dashboard Screenshot](https://github.com/Prerna2599/PowerBI-Sales-Dashboard/assets/140485929/061d2a73-1046-4f23-ae8b-427e5aa7e7af)
 
